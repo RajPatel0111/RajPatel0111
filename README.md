@@ -7,4 +7,4 @@
 [2]: https://twitter.com/RajPatel0798
 
 #
-[![Raj Patel's github stats](https://github-readme-stats.RajPatel0111.vercel.app/api?username=RajPatel0111&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Raj Patel's github stats](https://github-readme-stats.vercel.app/api?username=RajPatel0111&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
